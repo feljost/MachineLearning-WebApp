@@ -8,5 +8,5 @@ In order to use this Web App please install the following packages for python:
 'numpy'
 'sklearn'
 
-then run the following command from the console
+then run the following command from the console:
 'streamline run app.py'
