@@ -10,4 +10,4 @@ In order to use this Web App please install the following packages for python:
 'sklearn'
 
 then run the following command from the console:
-'streamline run app.py'
+'streamlit run app.py'
